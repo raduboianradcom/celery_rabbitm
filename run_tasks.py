@@ -10,7 +10,4 @@ if __name__ == "__main__":
     time.sleep(10)
     # now the task should be finished and ready method will return True
     print("Task finished? ", result.ready())
-    print("Task result: ", result.result)
-    print("Din main chchch: ", result.result)
-    print("Another thing: ")
-    print("Another ana are mere: ")
+    print("Important e c asta trebuie sa ajunga din main in dev ")
