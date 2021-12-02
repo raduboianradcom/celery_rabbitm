@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print("Task finished? ", result.ready())
     print("Task result: ", result.result)
     print("Din main chchch: ", result.result)
+    print("Another thing: ")
