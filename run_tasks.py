@@ -13,3 +13,4 @@ if __name__ == "__main__":
     print("Task result: ", result.result)
     print("Din main chchch: ", result.result)
     print("Another thing: ")
+    print("Another ana are mere: ")
