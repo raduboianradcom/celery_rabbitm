@@ -11,3 +11,4 @@ if __name__ == "__main__":
     # now the task should be finished and ready method will return True
     print("Task finished? ", result.ready())
     print("Main-Main FIRST")
+    print("Main-Main again")
